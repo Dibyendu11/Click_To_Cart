@@ -1,0 +1,30 @@
+.cAArt{
+    background-image: url(../../public/Image/back.jpg);
+    height: 800px;
+}
+.Succ{
+    color:chartreuse;
+    margin-left: 600px;
+}
+.SuccD{
+    color: blue;
+    margin-left: 650px;
+}
+#B17{
+    margin-top: 30px;
+    margin-left: 670px;
+
+    border-radius: 7px;
+    border:  2px rgb(61, 196, 61);
+    width: 250px;
+    height: 6.2vh;
+    font-size: 24px;
+    background-color: rgb(21, 177, 21);
+    color: rgb(241, 236, 236);
+    
+   
+}
+#B17:hover{
+    background-color: red;
+    color: rgb(17, 0, 255);
+}

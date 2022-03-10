@@ -1,0 +1,76 @@
+.d-block {
+width: 1310px;
+margin-left: 20px;
+margin-right: 25px ;
+height: 480px !important;
+margin-top: 20px;
+
+}
+.man{
+    width: 500px;
+    height: 480px !important;
+   margin-right: 20px !important;
+   
+}
+.mn{
+    top: 20vh !important;
+    width: 100px !important;
+    left: -300px !important;
+    color: rgb(158, 64, 64)!important;
+    height: 400px !important;
+    margin-right: 25px !important;
+}
+.last{
+    top: -3.9vh !important;
+    color: aquamarine !important;
+    left: -180px !important;
+    height: 400px !important;
+    margin-right: 250px !important;
+}
+.wmn{
+    top: 3vh !important;
+    color: rgb(65, 120, 202) !important;
+    left: 500px !important;
+    height: 400px !important;
+}
+.aa{
+   height: 280px;
+   border-radius: 2px;
+   
+}
+.aba{
+    margin-top: 50px;
+    margin-left: 20px;
+    margin-right: 18px;
+    width: 420px!important;
+}
+body{ 
+    background: -webkit-linear-gradient(to right, #4A569D, #DC2424);  
+    background: linear-gradient(to right, #4A569D, #b13838);
+    
+
+}
+footer{
+    padding: 37px;
+    background-color: rgb(53, 50, 50);
+    color: rgb(175, 169, 169);
+    margin-top: 40px;
+}
+
+
+ #B{
+    border-radius: 7px;
+    border:  2px rgb(61, 196, 61);
+    width: 240px;
+    height: 6vh;
+    font-size: 22px;
+    background-color: rgb(21, 177, 21);
+    color: rgb(241, 236, 236);
+    margin-left: 2px;
+    margin-top: 10px;
+    
+}
+#B:hover{
+    background-color: red;
+    color: black!important;
+}

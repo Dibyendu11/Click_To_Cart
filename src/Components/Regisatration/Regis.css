@@ -1,0 +1,66 @@
+#UNM{
+    border-radius: 5.8px;
+    border: rgb(149, 167, 212);
+    height: 6vh;
+   width: 320px;
+}
+#EML{
+    border-radius: 5.2px;
+    border: rgb(149, 167, 212);
+    width:318px;
+    margin-right: 2px;
+    height: 5.6vh;
+    
+}
+#PWD{
+    border-radius: 5.2px;
+    border: rgb(149, 167, 212);
+}
+
+.googl{
+   color: rgb(183, 43, 226) !important;
+   text-decoration: none !important;
+   padding-top: 20px!important;
+   width: 10px !important;
+   margin-right: 12px;
+}
+.gggl{
+    color: red;
+    margin-right: 8px;
+    
+}
+.fb{
+    margin-top: 15px !important;
+    text-decoration: none !important;
+    color: cadetblue;
+}
+.ffb{
+    color: blue;
+    margin-right: 12px;
+  
+}
+.regiiiis{
+    background-image: url(../../../public/Image/cardd.jpg);
+    width: 1300px;
+    height: 780px;
+    margin-left: 29px;
+}
+#asa{
+    border: 2px solid rgb(13, 119, 180);
+    background-color: rgb(23, 142, 190);
+    color: rgb(255, 15, 255);
+    border-radius: 6px;
+    margin-left: 20px;
+    margin-top: 10px;
+    width: 170px;
+    font-size:17px;
+}
+#asa:hover{
+    background-color: brown;
+    color: white;
+}
+.Registr{
+    color: blue;
+    margin-top: -24px;
+    margin-bottom: 26px;
+}

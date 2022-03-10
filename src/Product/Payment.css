@@ -1,0 +1,17 @@
+.ACRD{
+    background-image: url(../../public/Image/cardd.jpg);
+    width: 1300px;
+    height: 520px;
+    margin-left: 29px;
+}
+.pmnt{
+    margin-top: 88px;
+    width: 1260px;
+    margin-right: 22px;
+}
+.a1{
+    color: blue;
+}
+#B:hover{
+    color: black;
+}

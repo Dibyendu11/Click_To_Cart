@@ -1,0 +1,60 @@
+
+.from{
+    margin-top: 50px;
+}
+#EML{
+   margin-left: 35px;
+   margin-top: 30px;
+   width: 330px;
+}
+#PWD{
+    margin-left: 13px;
+    padding: 5px;
+    width: 330px;
+    margin-top: 24px;
+}
+.login{
+    border-radius: 50%; 
+    width: 150px;
+    height: 138px;
+    margin-left: 20px;
+}
+.photo{
+    margin-top: 50px;
+}
+.llogin{
+    color: rgb(39, 39, 153);
+    margin-top: 15px;
+}
+#B1{
+    margin-top: 30px;
+    margin-left: 80px;
+
+    border-radius: 7px;
+    border:  2px rgb(61, 196, 61);
+    width: 250px;
+    height: 6.2vh;
+    font-size: 24px;
+    background-color: rgb(21, 177, 21);
+    color: rgb(241, 236, 236);
+    
+   
+}
+#B1:hover{
+    background-color: red;
+    color: rgb(17, 0, 255);
+}
+#as{
+    border: 2px solid brown !important;
+    background-color: brown !important;
+    color: black;
+    border-radius: 6px;
+    margin-left: 20px;
+    margin-top: 10px;
+    width: 170px;
+    font-size:17px;
+}
+#as:hover{
+    background-color:rgb(161, 122, 233) !important;
+    color: white;
+}

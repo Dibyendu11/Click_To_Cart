@@ -1,0 +1,56 @@
+.ZA{
+    height: 300px!important;
+    padding: 15px !important;
+    border-radius: 5px!important;
+    /* background-color: rgb(201, 196, 196); */
+   
+}
+.ZB{
+    color: rgb(231, 159, 50);
+}
+.QQ{
+    columns: rgb(228, 76, 101);
+}
+.aaa{
+    margin-top: 20px;
+    margin-bottom: -80px;
+    border-radius: 8px;
+    height: 6vh;
+    width: 900px;
+}
+#B{
+    border-radius: 7px;
+    border:  2px rgb(61, 196, 61);
+    width: 240px;
+    height: 6vh;
+    font-size: 22px;
+    background-color: rgb(21, 177, 21);
+    color: rgb(241, 236, 236);
+    margin-left: 2px;
+    margin-top: 10px;
+    
+}
+#B:hover{
+    background-color: red;
+    color: red;
+}
+#BT{
+    border-radius: 7px;
+    border:  2px solid green;
+    color: green;
+    width: 140px;
+    height: 6vh;
+    font-size: 19px;
+   
+    margin-left: 20px;
+    margin-top: 10px;
+  }
+  #BT:hover{
+    background-color:rgb(6, 170, 6);
+    color: white ;
+}
+.BB{
+    margin-top: 20px!important;
+    margin-left: 20px!important;
+    margin-right: 20px!important;
+}
